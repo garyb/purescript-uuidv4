@@ -1,0 +1,27 @@
+{
+  "name": "purescript-uuidv4",
+  "homepage": "https://github.com/garyb/purescript-uuidv4",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garyb/purescript-uuidv4.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^6.0.0",
+    "purescript-strings": "^6.0.1",
+    "purescript-random": "^6.0.0"
+  },
+  "devDependencies": {
+    "purescript-quickcheck": "^8.0.1",
+    "purescript-assert": "^6.0.0"
+  }
+}
