@@ -9,7 +9,14 @@ There is an existing [`purescript-uuid`](https://github.com/megamaddu/purescript
 
 ## Installation
 
+Install with [Spago](https://github.com/purescript/spago):
+
+```sh
+spago install uuidv4
 ```
+
+Or with [Bower](https://bower.io/) for legacy projects:
+```sh
 bower install purescript-uuidv4
 ```
 
