@@ -15,11 +15,6 @@ Install with [Spago](https://github.com/purescript/spago):
 spago install uuidv4
 ```
 
-Or with [Bower](https://bower.io/) for legacy projects:
-```sh
-bower install purescript-uuidv4
-```
-
 ## Documentation
 
 Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-uuidv4).
